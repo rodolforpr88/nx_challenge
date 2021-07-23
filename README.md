@@ -1,7 +1,7 @@
 # API DOCUMENTATION
 
 - POSTMAN
-  https://documenter.getpostman.com/view/11703268/TzmChYvj
+  https://documenter.getpostman.com/view/11703268/TzsZq86N
 
 # README
 
