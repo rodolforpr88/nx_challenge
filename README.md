@@ -69,6 +69,3 @@ Pontos extras para:
 Envio:
 
 Envie o seu código pronto através de um Pull Request para esse repositório
-
-### Algum tipo de retorno da empresa ou feedback?
-- :thumbsdown:
